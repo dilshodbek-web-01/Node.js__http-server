@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "node ./main/app.js",
+    "dev": "nodemon ./main/app.js"
+  }
+}

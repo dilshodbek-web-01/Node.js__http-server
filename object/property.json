@@ -1,0 +1,44 @@
+[
+  {
+    "property_id": 1,
+    "price": 8000,
+    "color": "white",
+    "doors": "4"
+  },
+  {
+    "property_id": 2,
+    "price": 11000,
+    "color": "black",
+    "doors": "4"
+  },
+  {
+    "property_id": 3,
+    "price": 17000,
+    "color": "green",
+    "doors": "4"
+  },
+  {
+    "property_id": 4,
+    "price": 7000,
+    "color": "blue",
+    "doors": "4"
+  },
+  {
+    "property_id": 5,
+    "price": 9000,
+    "color": "grey",
+    "doors": "4"
+  },
+  {
+    "property_id": 6,
+    "price": 3000,
+    "color": "yellow",
+    "doors": "4"
+  },
+  {
+    "price": 7000,
+    "color": "yellow",
+    "doors": "4",
+    "property_id": 7
+  }
+]

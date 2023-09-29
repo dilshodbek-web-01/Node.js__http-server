@@ -1,0 +1,38 @@
+[
+    {
+        "car_id": 1,
+        "name": "Damas"
+    },
+    {
+        "car_id": 2,
+        "name": "Cobalt"
+    },
+    {
+        "car_id": 3,
+        "name": "Tracker"
+    },
+    {
+        "car_id": 4,
+        "name": "Spark"
+    },
+    {
+        "car_id": 5,
+        "name": "Nexia"
+    },
+    {
+        "car_id": 6,
+        "name": "Matiz"
+    },
+    {
+        "name": "gentra",
+        "car_id": 7
+    },
+    {
+        "name": "trailblaizer",
+        "car_id": 8
+    },
+    {
+        "name": "malibu-turbo",
+        "car_id": 9
+    }
+]
